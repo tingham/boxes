@@ -1,3 +1,4 @@
+``` 
   ┌────────────────────────────────────────────────────────────────────────────┐
   │ xxxxx     xxxxxx  xx    xx xxxxxxx  xxxxx  ┌─────────────────────────────┐ │
   │ xx  xx   xxx  xxx xx    xx xxxxxxx xx   xx │ ┌─────────────────────────┐ │ │
@@ -9,6 +10,7 @@
   │ xxx   xx xxx  xxx xx    xx xxxxxxx xx   xx │ └─────────────────────────┘ │ │
   │  xxxxxx   xxxxxx xx      xxxxxxxxx xxxxxx  └─────────────────────────────┘ │
   └────────────────────────────────────────────────────────────────────────────┘
+```
 
 # boxes
 Extremely portable diagrams
